@@ -17,3 +17,5 @@ potentially affect the review upvotes. Those are:
 A Neural-Network model is used as a model training. After testing on each combination (of 2, 3, 4, or 5 out of 7), the 3 features that are likely
 to be important for the number of upvotes for a review are StarRating, ReviewLength, and UserAvgVotePerReview with the model accuracy of 57.4%.
 
+More info about the project and dataset is in the following link: 
+https://www.kaggle.com/c/yelp-recruiting/data
