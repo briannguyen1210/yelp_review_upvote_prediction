@@ -1,0 +1,22 @@
+Features,NBAcc,NNAcc
+"['StarRating', 'UserAvgVotePerReview']",52.42703667,57.07233265
+"['ReviewLength', 'UserAvgVotePerReview']",51.41794615,56.79178809
+"['UserAvgVotePerReview', 'BusinessOpen']",53.52094298,56.05236832
+"['NumKeyWords', 'UserAvgVotePerReview']",54.33430473,55.38906529
+"['UserAvgVotePerReview', 'BusinessReviewCount']",53.60358401,54.54090731
+"['StarRating', 'ReviewLength']",48.51463616,51.67021878
+"['ReviewLength', 'BusinessReviewCount']",48.36675221,51.47666478
+"['ReviewLength', 'NumKeyWords']",45.10460615,51.30268366
+"['ReviewLength', 'BusinessOpen']",47.34243835,51.10478013
+"['ReviewLength', 'NumCheckins']",48.0949067,51.0460615
+"['StarRating', 'NumKeyWords']",48.27323735,50.01739811
+"['NumKeyWords', 'NumCheckins']",47.94484798,49.87603845
+"['NumKeyWords', 'BusinessOpen']",47.05754426,49.70205733
+"['NumKeyWords', 'BusinessReviewCount']",48.06880953,49.62376582
+"['StarRating', 'BusinessOpen']",49.01265713,49.01265713
+"['BusinessReviewCount', 'BusinessOpen']",48.86259841,49.01265713
+"['StarRating', 'BusinessReviewCount']",48.84302553,49.01265713
+"['BusinessOpen', 'NumCheckins']",48.80822931,49.01265713
+"['BusinessReviewCount', 'NumCheckins']",48.65599582,49.01265713
+"['StarRating', 'NumCheckins']",48.81257884,49.0083076
+"['UserAvgVotePerReview', 'NumCheckins']",45.68961768,46.52690183
